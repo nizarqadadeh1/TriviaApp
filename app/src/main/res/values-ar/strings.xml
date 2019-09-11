@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Android Trivia</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="signup">سجل</string>
+    <string name="category">الفئة</string>
+    <string name="username">اسم المستخدم</string>
+    <string name="Score">المجموع </string>
+    <string name="Total_Questions">مجموع الأسئلة </string>
+    <string name="password">رقم السري </string>
+    <string name="geography">جغرافية</string>
+    <string name="sports">رياضة</string>
+    <string name="science">علوم</string>
+    <string name="history">التاريخ</string>
+    <string name="play_again">إلعب مجدداً</string>
+    <string name="practice">تدرب</string>
+
+</resources>

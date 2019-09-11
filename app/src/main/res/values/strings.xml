@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Android Trivia</string>
+    <string name="login">Login</string>
+    <string name="signup">Signup</string>
+    <string name="category">Category</string>
+    <string name="username">Username</string>
+    <string name="Score">Score</string>
+    <string name="Total_Questions">Total Questions</string>
+    <string name="password">Password</string>
+    <string name="geography">Geography</string>
+    <string name="sports">Sports</string>
+    <string name="science">science</string>
+    <string name="history">History</string>
+    <string name="play_again">Play Again</string>
+    <string name="practice">Practice</string>
+
+</resources>

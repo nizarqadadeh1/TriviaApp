@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+        <dimen name="standard_padding">16dp</dimen>
+        <dimen name="standard_margin">16dp</dimen>
+
+        <!-- Increments of 8 for standard spacing -->
+        <dimen name="one">8dp</dimen>
+        <dimen name="two">8dp</dimen>
+        <dimen name="three">8dp</dimen>
+        <dimen name="four">8dp</dimen>
+        <dimen name="title_font_size">18sp</dimen>
+
+</resources>
